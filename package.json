@@ -8,9 +8,5 @@
   "license": "BSD",
   "dependencies": {
     "http-proxy": "~0.8.5"
-  },
-  "engines": {
-    "node": "0.8.x",
-    "npm": "1.1.x"
   }
 }
